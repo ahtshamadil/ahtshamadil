@@ -1,0 +1,81 @@
+name: Update Recent Contributions
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch and update recent contributions
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const username = context.repo.owner;
+
+            // Fetch the user's most recent merged PRs to repos they DON'T own
+            const { data } = await github.rest.search.issuesAndPullRequests({
+              q: `author:${username} is:pr is:merged -user:${username}`,
+              sort: 'updated',
+              order: 'desc',
+              per_page: 10
+            });
+
+            const lines = data.items.length === 0
+              ? ['_No external merged PRs yet — the bot will fill this in once you have some._']
+              : data.items.map(pr => {
+                  const repo = pr.repository_url.replace('https://api.github.com/repos/', '');
+                  const date = pr.pull_request.merged_at
+                    ? pr.pull_request.merged_at.slice(0, 10)
+                    : pr.closed_at
+                      ? pr.closed_at.slice(0, 10)
+                      : '';
+                  const title = pr.title.replace(/\|/g, '\\|');
+                  return `- \`${date}\` ✅ Merged [#${pr.number}: ${title}](${pr.html_url}) in [\`${repo}\`](https://github.com/${repo})`;
+                });
+
+            const block = [
+              '<!--RECENT_ACTIVITY:start-->',
+              '<!-- Auto-updated daily by .github/workflows/update-readme.yml -->',
+              '',
+              ...lines,
+              '',
+              '<!--RECENT_ACTIVITY:end-->'
+            ].join('\n');
+
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const updated = readme.replace(
+              /<!--RECENT_ACTIVITY:start-->[\s\S]*?<!--RECENT_ACTIVITY:end-->/,
+              block
+            );
+
+            if (updated === readme) {
+              core.warning('No RECENT_ACTIVITY markers found in README.md — nothing to update.');
+              return;
+            }
+
+            fs.writeFileSync('README.md', updated);
+            core.info(`Wrote ${data.items.length} contribution(s) to README.md`);
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "docs: update recent contributions [skip ci]"
+            git push
+          fi
