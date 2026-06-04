@@ -125,8 +125,10 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 ### 📝 Recent Contributions to Other Repos
 
 <!--RECENT_ACTIVITY:start-->
-<!-- Auto-updated daily by .github/workflows/update-readme.yml — run it manually from the Actions tab the first time to populate -->
-_Loading…_
+<!-- Auto-updated daily by .github/workflows/update-readme.yml -->
+
+_No external merged PRs yet — the bot will fill this in once you have some._
+
 <!--RECENT_ACTIVITY:end-->
 
 ---
