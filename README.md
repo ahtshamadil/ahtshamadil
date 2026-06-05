@@ -124,11 +124,7 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 <!--RECENT_ACTIVITY:start-->
 <!-- Auto-updated daily by .github/workflows/update-readme.yml -->
 
-- `2026-04-13` ✅ Merged [#5: Mobile app](https://github.com/abduljamil/FarmKonnect/pull/5) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
-- `2026-01-26` ✅ Merged [#4: feat(client-fintech): add marketplace UI, transaction flows, and pric…](https://github.com/abduljamil/FarmKonnect/pull/4) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
-- `2026-01-26` ✅ Merged [#3: Feature/community and admin](https://github.com/abduljamil/FarmKonnect/pull/3) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
-- `2026-01-26` ✅ Merged [#2: Feature/infrastructure and services](https://github.com/abduljamil/FarmKonnect/pull/2) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
-- `2026-01-26` ✅ Merged [#1: Feature/fintech marketplace](https://github.com/abduljamil/FarmKonnect/pull/1) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
+_No external merged PRs yet — the bot will fill this in once you have some._
 
 <!--RECENT_ACTIVITY:end-->
 
