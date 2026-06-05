@@ -111,13 +111,20 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 
 ### 📊 GitHub Stats
 
+<!--
+  Note: The default github-readme-stats.vercel.app deployment is currently
+  rate-limited and returns 503. Using a maintainer-deployed mirror below.
+  For maximum reliability long-term, fork github-readme-stats and self-host
+  on your own Vercel — 5 min, gives you your own quota:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahtshamadil&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtshamadil&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ahtshamadil&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="Ahtsham&apos;s GitHub stats"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ahtshamadil&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&langs_count=8" height="170" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtshamadil&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=ahtshamadil&theme=tokyonight&hide_border=true" height="170" alt="Contribution streak"/>
 </p>
 
 ---
