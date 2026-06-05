@@ -123,10 +123,6 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ahtshamadil&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&langs_count=8" height="170" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtshamadil&theme=tokyonight&hide_border=true&cachebust=2" height="170" alt="Contribution streak"/>
-</p>
-
 ---
 
 ### 📝 Recent Contributions to Other Repos
