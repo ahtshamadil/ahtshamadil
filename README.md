@@ -124,7 +124,7 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahtshamadil&theme=tokyonight&hide_border=true" height="170" alt="Contribution streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtshamadil&theme=tokyonight&hide_border=true" height="170" alt="Contribution streak"/>
 </p>
 
 ---
