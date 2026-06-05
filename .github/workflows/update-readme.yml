@@ -25,7 +25,7 @@ jobs:
           script: |
             const fs = require('fs');
             const username = 'ahtshamadil';
-            const query = `author:${username} is:pr is:merged -user:${username}`;
+            const query = `author:${username} is:pr is:merged -user:${username} is:public`;
 
             core.info(`Searching: ${query}`);
 

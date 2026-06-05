@@ -85,21 +85,15 @@ Software engineer with **production MERN deployments on AWS** and a **CI-based a
 
 ### 🤝 Notable Contributions to Other Projects
 
-#### 🌾 [FarmKonnect](https://github.com/abduljamil/FarmKonnect) — *Final Year Project (4-person team)*
+#### 🌾 FarmKonnect — *Final Year Project (4-person team)*  <sub>private repo</sub>
 
 Full-stack agricultural marketplace with real-time chat, commodity price intelligence, and ML-based price forecasting. Deployed on AWS EC2 via Docker Compose + Nginx + Let's Encrypt SSL.
 
-**5 merged pull requests** spanning the full product:
+**140+ commits and 5 merged PRs** spanning fintech marketplace, infrastructure & services, community & admin, marketplace UI / transaction flows / pricing, and the mobile app. Plus ongoing work on the **ML prediction service** — rolling-MAPE drift monitoring, monthly retrain playbook, LightGBM router, and 2,000+ lines of technical documentation.
 
-- [#1 Fintech marketplace](https://github.com/abduljamil/FarmKonnect/pull/1) — initial marketplace + payments scaffold
-- [#2 Infrastructure and services](https://github.com/abduljamil/FarmKonnect/pull/2) — Docker, Nginx, services layout
-- [#3 Community and admin](https://github.com/abduljamil/FarmKonnect/pull/3) — community feed + admin moderation
-- [#4 Marketplace UI, transaction flows, and pricing](https://github.com/abduljamil/FarmKonnect/pull/4)
-- [#5 Mobile app](https://github.com/abduljamil/FarmKonnect/pull/5)
+> Code access available on request.
 
-Plus ongoing work on the **ML prediction service** — rolling-MAPE drift monitoring, monthly retrain playbook, LightGBM router, comprehensive 2,000+ line technical documentation.
-
-#### 🎓 [sst-cs Organization](https://github.com/sst-cs) — *Teaching Assistant at UMT*
+#### 🎓 sst-cs Organization — *Teaching Assistant at UMT*  <sub>private student repos</sub>
 
 Built and maintain the **autograding infrastructure for 3 courses** (Web Technologies, Data Science, Artificial Intelligence) — used by **150+ students**. Designed CI/CD pipelines on GitHub Classroom and GitHub Actions, partial-credit scoring, and full assignment test suites from scratch. Wrote automation scripts updating workflows across hundreds of repositories.
 
