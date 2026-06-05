@@ -154,5 +154,5 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 </p>
 
 <p align="center">
-  <sub>👀 Profile views: <img src="https://komarev.com/ghpvc/?username=ahtshamadil&style=flat-square&color=blue" alt="Profile views"/></sub>
+  <img src="https://komarev.com/ghpvc/?username=ahtshamadil&style=flat&label=Profile+views&color=blue" alt="Profile views"/>
 </p>
