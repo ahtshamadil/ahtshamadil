@@ -124,6 +124,7 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 <!--RECENT_ACTIVITY:start-->
 <!-- Auto-updated daily by .github/workflows/update-readme.yml -->
 
+- `2026-08-13` ✅ Merged [#5: Add authentication with JWT sessions](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/5) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-12` ✅ Merged [#6: Add sign up and log in screens](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/6) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-10` ✅ Merged [#4: Add MySQL database with Prisma](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/4) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-03` ✅ Merged [#3: Add React frontend with Vite](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/3) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
