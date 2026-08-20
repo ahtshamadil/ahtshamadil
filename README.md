@@ -124,6 +124,8 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 <!--RECENT_ACTIVITY:start-->
 <!-- Auto-updated daily by .github/workflows/update-readme.yml -->
 
+- `2026-08-19` ✅ Merged [#8: Add the notes screens with a rich text editor](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/8) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
+- `2026-08-19` ✅ Merged [#7: Add the notes API and user activity logging](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/7) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-13` ✅ Merged [#5: Add authentication with JWT sessions](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/5) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-12` ✅ Merged [#6: Add sign up and log in screens](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/6) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-10` ✅ Merged [#4: Add MySQL database with Prisma](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/4) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
@@ -132,8 +134,6 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 - `2026-04-13` ✅ Merged [#5: Mobile app](https://github.com/abduljamil/FarmKonnect/pull/5) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
 - `2026-01-26` ✅ Merged [#4: feat(client-fintech): add marketplace UI, transaction flows, and pric…](https://github.com/abduljamil/FarmKonnect/pull/4) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
 - `2026-01-26` ✅ Merged [#3: Feature/community and admin](https://github.com/abduljamil/FarmKonnect/pull/3) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
-- `2026-01-26` ✅ Merged [#2: Feature/infrastructure and services](https://github.com/abduljamil/FarmKonnect/pull/2) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
-- `2026-01-26` ✅ Merged [#1: Feature/fintech marketplace](https://github.com/abduljamil/FarmKonnect/pull/1) in [`abduljamil/FarmKonnect`](https://github.com/abduljamil/FarmKonnect)
 
 <!--RECENT_ACTIVITY:end-->
 
