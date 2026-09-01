@@ -124,6 +124,8 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 <!--RECENT_ACTIVITY:start-->
 <!-- Auto-updated daily by .github/workflows/update-readme.yml -->
 
+- `2026-08-31` ✅ Merged [#13: Add live note updates over Socket.IO](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/13) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
+- `2026-08-31` ✅ Merged [#12: Share notes from the UI](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/12) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-27` ✅ Merged [#11: Share notes with other accounts, and sanitise note HTML](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/11) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-25` ✅ Merged [#10: Add note search, sorting and export to the dashboard](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/10) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-20` ✅ Merged [#9: Add note search, export and import](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/9) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
@@ -132,8 +134,6 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 - `2026-08-13` ✅ Merged [#5: Add authentication with JWT sessions](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/5) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-12` ✅ Merged [#6: Add sign up and log in screens](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/6) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-10` ✅ Merged [#4: Add MySQL database with Prisma](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/4) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
-- `2026-08-03` ✅ Merged [#3: Add React frontend with Vite](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/3) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
-- `2026-07-31` ✅ Merged [#2: Set up Express backend with health endpoint and tests](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/2) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 
 <!--RECENT_ACTIVITY:end-->
 
