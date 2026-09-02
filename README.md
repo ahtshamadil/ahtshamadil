@@ -124,6 +124,9 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 <!--RECENT_ACTIVITY:start-->
 <!-- Auto-updated daily by .github/workflows/update-readme.yml -->
 
+- `2026-09-01` ✅ Merged [#19: Change the password from an account menu](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/19) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
+- `2026-09-01` ✅ Merged [#18: Show other people's edits live, and polish the editor](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/18) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
+- `2026-09-01` ✅ Merged [#17: Harden the API, and let an owner pin a note](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/17) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-31` ✅ Merged [#13: Add live note updates over Socket.IO](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/13) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-31` ✅ Merged [#12: Share notes from the UI](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/12) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-27` ✅ Merged [#11: Share notes with other accounts, and sanitise note HTML](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/11) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
@@ -131,9 +134,6 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 - `2026-08-20` ✅ Merged [#9: Add note search, export and import](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/9) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-19` ✅ Merged [#8: Add the notes screens with a rich text editor](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/8) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-19` ✅ Merged [#7: Add the notes API and user activity logging](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/7) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
-- `2026-08-13` ✅ Merged [#5: Add authentication with JWT sessions](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/5) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
-- `2026-08-12` ✅ Merged [#6: Add sign up and log in screens](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/6) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
-- `2026-08-10` ✅ Merged [#4: Add MySQL database with Prisma](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/4) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 
 <!--RECENT_ACTIVITY:end-->
 
