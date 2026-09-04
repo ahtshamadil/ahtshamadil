@@ -124,6 +124,7 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 <!--RECENT_ACTIVITY:start-->
 <!-- Auto-updated daily by .github/workflows/update-readme.yml -->
 
+- `2026-09-03` ✅ Merged [#20: Integrate SonarQube, and clear what it found](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/20) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-09-01` ✅ Merged [#19: Change the password from an account menu](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/19) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-09-01` ✅ Merged [#18: Show other people's edits live, and polish the editor](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/18) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-09-01` ✅ Merged [#17: Harden the API, and let an owner pin a note](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/17) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
@@ -133,7 +134,6 @@ Crypto scalping bot for ETH with **multi-timeframe (MTF) confluence**, CVD diver
 - `2026-08-25` ✅ Merged [#10: Add note search, sorting and export to the dashboard](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/10) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-20` ✅ Merged [#9: Add note search, export and import](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/9) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 - `2026-08-19` ✅ Merged [#8: Add the notes screens with a rich text editor](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/8) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
-- `2026-08-19` ✅ Merged [#7: Add the notes API and user activity logging](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham/pull/7) in [`10pshine-cohort-9/cohort-9-mern-7533-ahtsham`](https://github.com/10pshine-cohort-9/cohort-9-mern-7533-ahtsham)
 
 <!--RECENT_ACTIVITY:end-->
 
